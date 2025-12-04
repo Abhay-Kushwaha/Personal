@@ -29,3 +29,9 @@ pip install -r req.txt
 ```bash
 python whatsapp.py
 ```
+
+## Reference
+Content Types: https://www.twilio.com/docs/content/content-types-overview
+Twilio setup : https://www.youtube.com/watch?v=UVez2UyjpFk
+Install NGROK : https://www.youtube.com/watch?v=aFwrNSfthxU
+NGROK Links in Twilio : https://www.youtube.com/watch?v=dsJgse8gc2o
